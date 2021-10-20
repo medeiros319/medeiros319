@@ -1,4 +1,4 @@
-### Opa, sou João Vicotor 👋
+### Opa, sou João Victor 👋
 
 
 - 🔭 estou criando e estudando sobre criação de jogos
