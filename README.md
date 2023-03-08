@@ -1,9 +1,8 @@
 ### Opa, sou João Victor 👋
 
-
-- 🔭 estou criando e estudando sobre criação de jogos
-- 🌱 Atualmente estou estudando Desenvouvimento de Sistema 
-- ⚡  tenho 18 anos 
+- 🔭 Estou estudando e desenvolvendo jogos digitais 
+- 🌱 Formado em Desenvouvimento de Sistema 
+- ⚡ Tenho 18 anos 
 
 <div>
   <a href="https://github.com/medeiros319">
