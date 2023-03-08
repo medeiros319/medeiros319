@@ -1,7 +1,7 @@
 ### Opa, sou João Victor 👋
 
 - 🔭 Estou estudando e desenvolvendo jogos digitais 
-- 🌱 Formado em Desenvouvimento de Sistema 
+- 🌱 Formado em Desenvouvimento de Sistemas 
 - ⚡ Tenho 18 anos 
 
 <div>
