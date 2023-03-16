@@ -1,6 +1,7 @@
 ### Opa, sou João Victor 👋
 
-- 🔭 Estou estudando e desenvolvendo jogos digitais 
+- 🔭 Estou estudando sobre desenvolvimento web front-end
+- 👾 Estou estudando sobre criação de games
 - 🌱 Formado em Desenvolvimento de Sistemas 
 - ⚡ Tenho 18 anos 
 
