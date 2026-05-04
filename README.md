@@ -3,7 +3,7 @@
 - 🔭 Estou estudando sobre desenvolvimento web front-end
 - 👾 Estou estudando sobre criação de games
 - 🌱 Formado em Desenvolvimento de Sistemas 
-- ⚡ Tenho 20 anos 
+- ⚡ Tenho 21 anos 
 
  <div>
    <a href="https://github.com/medeiros319">
