@@ -9,10 +9,11 @@
    <a href="https://github.com/medeiros319">
 
        
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Medeiros319&theme=tokyonight)
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=medeiros319&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Medeiros319&theme=tokyonight) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=medeiros319&theme=tokyonight&utcOffset=8)
+   
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=medeiros319&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medeiros319&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
+</div>-->
 
 
 
